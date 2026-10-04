@@ -1,2 +1,4 @@
-# multi-rice-wallpapers
-Wallpapers for Huzaifah Multi-Rice — individual images and complete packs
+<!-- multi-rice-wallpapers:managed -->
+# Huzaifah Multi-Rice Wallpapers
+
+The first collection is being uploaded.
